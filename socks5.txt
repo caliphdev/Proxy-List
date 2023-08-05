@@ -1,2 +1,0 @@
-SSH-2.0-OpenSSH_9.3p2 Debian-1
-Invalid SSH identification string.
